@@ -257,6 +257,11 @@ button:focus {
     -webkit-transition: .3s;
     transition: .3s;
 }
+.navbar.black{
+    background-color: #000!important;
+    -webkit-transition: .3s;
+    transition: .3s;
+}
 .navbar-brand.logo img {
     max-height: 40px;
 }
